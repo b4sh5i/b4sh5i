@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&center=true&vCenter=true&width=404&height=53&pause=1000&color=2FF71A&lines=b4sh5i's+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=b4sh5i's+github)](https://git.io/typing-svg)
+
 
 [![YouTube Video](https://i.ytimg.com/vi/Bf0Hm4ksSFs/hq720.jpg)](https://www.youtube.com/watch?v=Bf0Hm4ksSFs)
 
